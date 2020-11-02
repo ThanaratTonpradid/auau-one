@@ -15,6 +15,6 @@ export default class Home extends Vue {}
 </script>
 <style scoped>
 .home {
-  height: calc(100vh - 56px);
+  height: calc(100vh - 70px);
 }
 </style>
